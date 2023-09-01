@@ -1,4 +1,4 @@
-# sushi
+# Sushi-ordering
 Sushi-ordering Landing Page, with animations
 Sushi Delight is a web application dedicated to the world of sushi, offering a delightful experience for sushi enthusiasts, foodies, and anyone curious about this exquisite Japanese cuisine.
 
