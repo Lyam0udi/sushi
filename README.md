@@ -12,7 +12,7 @@ Sushi Delight is a web application dedicated to the world of sushi, offering a d
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo :
+## Demo
 ### The home page :
 
 ![sushiHome](https://github.com/Lyam0udi/sushi/assets/67929106/bb3bfa2e-b27a-4e4b-8177-46c8d2d000da)
