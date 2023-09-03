@@ -26,17 +26,17 @@ To run this project locally, follow these steps:
   ```npm install```
 5. Start the development server:
    ```npm run dev```
+6. Navigate to : ```http://127.0.0.1:5173/``` (By Default)
 
 This will launch the project locally, and you can access it in your web browser.
 
 ## Pages
 The project contains the following pages:
-
-  - Home
-  - About
-  - Services
-  - Menu
-  - Contact
+   - Home :
+   - About :
+   - Menu :
+   - Food :
+   - Services :
 
 ## Tools
 Technologies Used : HTML, CSS, JavaScript, Vite, Visual Studio Code (VsCode).
@@ -44,12 +44,16 @@ Technologies Used : HTML, CSS, JavaScript, Vite, Visual Studio Code (VsCode).
 ## Demo
 Here are some screenshots of the project: 
 #### Home :
+![sushiHome](https://github.com/Lyam0udi/sushi/assets/67929106/5e3337cc-4a8c-4a30-8c1d-244485d62024)
 
 #### About :
-
-#### Services :
+![sushiAbout](https://github.com/Lyam0udi/sushi/assets/67929106/cfd441fe-3f19-4070-940c-1eb39429bbe4)
 
 #### Menu :
+![sushiMenu](https://github.com/Lyam0udi/sushi/assets/67929106/5ac13698-15f1-431c-bd8a-f6d4da790e32)
 
-#### Contact :
+#### Food :
+![sushiFood](https://github.com/Lyam0udi/sushi/assets/67929106/f6112898-8ca6-4b7b-9d6f-1a9e6bbc798e)
 
+#### Services :
+![sushiServices](https://github.com/Lyam0udi/sushi/assets/67929106/b741efac-21c6-47e5-8e1e-f2d0bede477c)
