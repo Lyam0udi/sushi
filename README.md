@@ -16,6 +16,18 @@ This project serves as a sushi ordering landing page with animations. It's prima
 
 ## Usage
 
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   git clone <repository-url>
+2. Navigate to the project directory:
+  cd sushi
+3. Install project dependencies:
+  npm install
+5. Start the development server:
+   npm run dev
+
+This will launch the project locally, and you can access it in your web browser.
 
 ## Pages
 The project contains the following pages:
