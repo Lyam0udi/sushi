@@ -19,15 +19,13 @@ This project serves as a sushi ordering landing page with animations. It's prima
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-```bash
-   git clone https://github.com/Lyam0udi/sushi ```
+```git clone https://github.com/Lyam0udi/sushi ```
 3. Navigate to the project directory:
-   ```bash
-  cd sushi
+   ```cd sushi```
 4. Install project dependencies:
-  npm install
+  ```npm install```
 5. Start the development server:
-   npm run dev
+   ```npm run dev```
 
 This will launch the project locally, and you can access it in your web browser.
 
