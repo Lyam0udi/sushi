@@ -19,7 +19,7 @@ This project serves as a sushi ordering landing page with animations. It's prima
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/Lyam0udi/sushi
 2. Navigate to the project directory:
   cd sushi
 3. Install project dependencies:
@@ -39,8 +39,7 @@ The project contains the following pages:
   - Contact
 
 ## Tools
-Technologies Used : HTML, CSS, JavaScript, Vite, VsCode.
+Technologies Used : HTML, CSS, JavaScript, Vite, Visual Studio Code (VsCode).
 
 ## Demo
 
-## Credits
