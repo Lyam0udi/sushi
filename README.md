@@ -20,8 +20,9 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/Lyam0udi/sushi
+   git clone https://github.com/Lyam0udi/sushi ```
 3. Navigate to the project directory:
+   ```bash
   cd sushi
 4. Install project dependencies:
   npm install
