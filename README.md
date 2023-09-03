@@ -1,27 +1,24 @@
-# Sushi-ordering
-Sushi-ordering Landing Page, with animations
-Sushi Delight is a web application dedicated to the world of sushi, offering a delightful experience for sushi enthusiasts, foodies, and anyone curious about this exquisite Japanese cuisine.
+# Sushi Delight - Sushi Ordering Landing Page
 
+Sushi Delight is a web application dedicated to the world of sushi, offering a delightful experience for sushi enthusiasts, foodies, and anyone curious about this exquisite Japanese cuisine.
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [ProjectDescription](#projectdescription)
+- [Usage](#usage)
+- [Pages](#pages)
 - [Tools](#tools)
-- [Features](#features)
-- [Installation](#installation)
+- [Demo](#demo)
+- [Credits](#credits)
 
-## Demo
-### The home page :
+## ProjectDescription
 
-![sushiHome](https://github.com/Lyam0udi/sushi/assets/67929106/bb3bfa2e-b27a-4e4b-8177-46c8d2d000da)
+## Usage
 
-### The About page :
-![sushiAbout](https://github.com/Lyam0udi/sushi/assets/67929106/7cd6d2f9-a195-4462-9715-3d390b9ef5e9)
+## Pages
 
 ## Tools
-VsCode, HTML, CSS, JavaScript
 
-## Features
+## Demo
 
-## Installation
-
+## Credits
