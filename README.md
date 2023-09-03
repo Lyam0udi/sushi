@@ -42,4 +42,14 @@ The project contains the following pages:
 Technologies Used : HTML, CSS, JavaScript, Vite, Visual Studio Code (VsCode).
 
 ## Demo
+Here are some screenshots of the project: 
+#### Home :
+
+#### About :
+
+#### Services :
+
+#### Menu :
+
+#### Contact :
 
