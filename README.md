@@ -57,3 +57,6 @@ Here are some screenshots of the project:
 
 #### Services :
 ![sushiServices](https://github.com/Lyam0udi/sushi/assets/67929106/b741efac-21c6-47e5-8e1e-f2d0bede477c)
+
+## Credits
+In order to create this project, I heavily relied on a tutorial available on the Youtube channel : https://www.youtube.com/@javascriptmastery .
